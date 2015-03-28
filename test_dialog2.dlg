@@ -1,0 +1,38 @@
+
+12
+
+0               2  3 4
+1               2  3 4
+
+2               5
+3               6
+4               0
+
+5               8 4
+6               9 4
+
+8               7
+9               7
+
+7               10 11
+
+10              0
+11              1             
+
+0  "Hello there, welcome to Atwater!"
+1  "Hey again, waddup?"
+
+5 "Well, this is Atwater! Little town, if you go down the main boulevard there's a little shop. But mostly we're just surviving."
+6 "The name's Lee, I'm the mayor of this town. People come to me with their pesky problems."
+
+7 "Those damn raiders! They come from the east somewhere. They all but control us, threaten to kill us if we don't give them our food whnever that gang comes by."
+
+2 "What is this place?"              
+3 "Who are you?"                  
+4 "Nevermind."    
+
+8 "Just surviving? Are there any problems going on?" 
+9 "What problems are around these parts?"              
+
+10 "Sounds like hell. I could take care of them, but maybe later."
+11 "Guess you have some real bad luck then, turns out I'm a raider. Time to die."
